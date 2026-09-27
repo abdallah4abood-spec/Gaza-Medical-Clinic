@@ -21,11 +21,9 @@
 *(هنا يمكنك وضع صور GIF أو لقطات شاشة لواجهات التطبيق التي قمت بتصميمها وتطويرها)*
 
 ### 1. Dashboard & Analytics
-> `![Dashboard Preview](./assets/dashboard.png)`
-
+![Dashboard Preview](./assets/dashboard.png)
 ### 2. Instant Appointment Booking
-> `![Booking Preview](./assets/booking.png)`
-
+![Booking Preview](./assets/booking.png)
 ---
 
 ## ✨ Key Features
