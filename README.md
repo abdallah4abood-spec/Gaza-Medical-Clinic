@@ -18,7 +18,6 @@
 ---
 
 ## 📸 Project Showcase (UI / UX Preview)
-*(هنا يمكنك وضع صور GIF أو لقطات شاشة لواجهات التطبيق التي قمت بتصميمها وتطويرها)*
 
 ### 1. Dashboard & Analytics
 ![Dashboard Preview](./assets/Dashboard.png)
